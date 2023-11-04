@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# ASocial-Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ASocial is social media website which is build using MERN Stack
 
 ## Available Scripts
 
